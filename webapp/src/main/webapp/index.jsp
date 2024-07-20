@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Asim Shaukat!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h1>
+    <h1>Asim Shaukat!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Hello All, I'm completed this project</h1>
     <p>Please fill in this form</p>
     <hr>
     <br>
@@ -17,6 +17,13 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
+    <label for="aadhar"><b>Aadhar</b></label>
+    <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
+    <br>
+
+    <label for="PAN"><b>PAN Number</b></label>
+    <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
+    <br>
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
